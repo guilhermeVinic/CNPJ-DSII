@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10"
+  },
+  "name": "cnpj",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "body-parser": "^2.2.0",
+    "consultar-cnpj": "^1.0.20",
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  }
+}
